@@ -20,10 +20,10 @@
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "PREFIX": .",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "61556797236758",
+    ""
   ],
   "DESIGN": {
     "Title": "BotPack",
@@ -49,7 +49,7 @@
   },
   "daily": {
     "cooldownTime": 43200000,
-    "rewardCoin": 500
+    "rewardCoin": 1
   },
   "work": {
     "cooldownTime": 1200000
